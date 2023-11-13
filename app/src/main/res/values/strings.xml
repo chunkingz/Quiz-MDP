@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MDP Quiz</string>
+    <string name="proceed">Proceed</string>
+    <string name="welcomeTxt">Welcome to the Quiz app!</string>
+    <string name="quiz_icon_txt">Quiz Icon</string>
+
+    <string name="question_1_title">Question 1</string>
+    <string name="question1">If you want to inherit in Kotlin you have to declare the parent class with the keyword</string>
+    <string name="option_1_1">extends</string>
+    <string name="option_1_2">open</string>
+    <string name="option_1_3">inherit</string>
+    <string name="option_1_4">public</string>
+
+    <string name="question_2_title">Question 2</string>
+    <string name="question2">Which of the following are Kotlin features?</string>
+    <string name="option_2_1">Null safety</string>
+    <string name="option_2_2">Extension functions</string>
+    <string name="option_2_3">Multiple inheritance</string>
+    <string name="option_2_4">Coroutines</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
